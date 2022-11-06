@@ -1,0 +1,28 @@
+Most of the time, if not all of the time, we communicate with each other using
+language without considering the complex activity we are undertaking, forming
+complex words and sentences in a split second. We know immediately when
+someone uses language structures that are inappropriate or incorrect because we
+have learned the rules that govern the language(s) we use. In this book, we will
+look at the structures we use in more detail, in order to help us to understand the
+structures we find in languages that may be arranged in ways quite different from
+English.
+There are many approaches to the study of language. Some linguists are more
+interested in discovering the basic, innate structures that we all have in our brains,
+regardless of which language(s) we speak. Linguists working in what is known
+as the generative tradition seek to understand universal grammar, the
+structures that human languages have in common and that we may be born with the
+capacity to use. The generative approach focuses on the formal characteristics
+of language structure, seeking to uncover the rules that ‘generate’ well-formed
+sentences. Other linguists take a more functional approach, studying language
+use in context; in other words, what actually comes out of our mouths rather than
+what may be stored in our heads. Functional approaches seek to incorporate the
+meaning and broader context of language in order to fully understand language
+structure.
+In this book I present a practical, functional approach to describing and explaining language structure. In chapter 2, I present a step-by-step approach to analysing
+the structure of words: the study of morphology. Chapters 3 to 8 draw specifically on Role and Reference Grammar theory (RRG) to help us understand the
+structure of sentences by looking at form (syntax), meaning (semantics) and
+function (pragmatics) (Van Valin and LaPolla 1997, Van Valin 2005). As well as
+being a functional theory interested in language as a means of communication,
+RRG theory seeks to be typologically adequate, to present a level playing field
+for the analysis of all languages. This book does not cover every aspect of RRG
+theory; for that, the reader is directed to the references. Rather, this book is an 
