@@ -4,5 +4,6 @@
 
 #include "inter.cpp"
 #include "file_build.cpp"
+#include "console.cpp"
 
 #endif

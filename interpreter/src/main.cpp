@@ -3,7 +3,11 @@
 
 int main(int s, char * z[]){
 
-    printf("hello world!");
+    LogCommandBuffer();
+    CreateCommandBuffer(_GetCommandBuffer());
+    LogCommandBuffer();
+    
+    printf("goodbye!");
 
     return 0;
 }

@@ -2,6 +2,8 @@
 #define _FILE_BUILD_H
 #pragma once
 
+#include <cstdio>
+
 struct file{
 private:
     char *_name;
