@@ -1,0 +1,5 @@
+
+use:
+
+ - cheat-engine = stack analyser/manipulator
+ - ghidra = dissasembler/decompiler
