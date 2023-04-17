@@ -13,7 +13,6 @@ public:
     
     virtual inline void SetName(const char *_n);
     virtual inline void BuildFile();
-    virtual inline void Interpret();
 };
 
 #endif
