@@ -11,31 +11,26 @@ int main(int ss, char * zz[]){
 
     CONSOLEBUFFER consolebuffer;
 
-    consolebuffer.ConstructConsole();
-    consolebuffer.FlushScreenBuffer(L'|', dwBytesWritten);
+    uint32_t SCREEN_WIDTH = consolebuffer.nScreenWidth;
 
-    /*
+    consolebuffer.ConstructConsole();
+    consolebuffer.FlushScreenBuffer(L'-', dwBytesWritten);
+
     sStreamer s[ consolebuffer.nScreenWidth ];
     for(uint16_t i=0; i <= consolebuffer.nScreenWidth; ++i)
     {
-        uint16_t speed = rand() % 8 + 4;
-        size_t length  = rand() % 9 + 7;
-        s[ i ] = {speed, length};
+        s[ i ].InitializeAttributes();
     }
-    */
-
-    uint16_t speed = rand() % 8 + 4;
-    size_t length  = rand() % 9 + 7;
-    sStreamer s = {speed, length};
 
     while(running)
     {
-        //uint16_t streamer = rand() % consolebuffer.nScreenWidth;
+        uint32_t streamer = rand() % consolebuffer.nScreenWidth;
 
         Sleep(consolebuffer.WriteStreamToScreenBuffer(
             pPosition, dwBytesWritten, 
-            s/*[ streamer ]*/.speed, s/*[ streamer ]*/.length));
-        pPosition.X = rand() % consolebuffer.nScreenWidth;
+            s[ streamer ].speed, s[ streamer ].length));
+        pPosition.X = rand() % SCREEN_WIDTH;
+        pPosition.Y += s[ streamer ].speed;
         
         if(GetAsyncKeyState(VK_ESCAPE & 0x1B)) running = false;
     }
@@ -43,4 +38,10 @@ int main(int ss, char * zz[]){
     consolebuffer.DestroyScreenBuffer();
 
     return 0;
+}
+
+inline void sStreamer::InitializeAttributes()
+{
+    speed  = (uint16_t&&)rand() % 2 + 1;
+    length = (size_t&&  )rand() % 9 + 7;
 }

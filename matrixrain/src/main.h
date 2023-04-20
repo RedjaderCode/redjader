@@ -16,6 +16,8 @@ struct sStreamer
     size_t length;
     sStreamer() = default;
     ~sStreamer() { speed  = 0; length = 0; }
+
+    inline void InitializeAttributes();
 };
 
 #endif
