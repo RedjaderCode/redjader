@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T21:34:39.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="N0-Ai07cw-kJt6Rc0zky" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T21:36:34.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3hc6rY-zgCQS_0fBeQkW" version="24.6.5" type="github">
   <diagram name="Page-1" id="Bwrql6FO_Pp4iYdtCRvU">
     <mxGraphModel dx="577" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,14 +34,14 @@
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-12" value="CHOICE = PROCESS_CHOICE( )" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="202.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jd5DZ7lS3QpHcR33lxbT-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-14" target="jd5DZ7lS3QpHcR33lxbT-16">
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-14" target="jd5DZ7lS3QpHcR33lxbT-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-14" value="CALC_TOTAL(CHOICE)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-16" value="END MAIN" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="140" y="490" width="197.5" height="50" as="geometry" />
+          <mxGeometry x="137.5" y="530" width="197.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-18" target="jd5DZ7lS3QpHcR33lxbT-21">
           <mxGeometry relative="1" as="geometry" />
@@ -230,6 +230,18 @@
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-123" value="&lt;font size=&quot;3&quot;&gt;DISPLAY &quot; Thank you for your order! &quot;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;Quantity: &quot;, CHOICE[ 1 ], PIZZA, CHOICE[ 2 ], &quot; TOPPINGS - $&quot;, PIZZAPRICE&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="71.25" y="1330" width="340" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-127" target="jd5DZ7lS3QpHcR33lxbT-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-127" value="TOTAL = CALC_TOTAL(CHOICE)" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="355" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-129" value="DISPLAY &quot;TOTAL: $&quot;, TOTAL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="460" width="247.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-25;entryPerimeter=0;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-129" target="jd5DZ7lS3QpHcR33lxbT-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
