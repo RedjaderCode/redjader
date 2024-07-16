@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T21:26:21.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vFXL8xjursm1mcmP4H5g" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T21:26:35.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="L_c_MyvSdxYekNU-LJat" version="24.6.5" type="github">
   <diagram name="Page-1" id="Bwrql6FO_Pp4iYdtCRvU">
     <mxGraphModel dx="553" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,17 +198,26 @@
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-103" value="CHOICE[ 0 ] == 3" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="290" y="880" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-106" target="jd5DZ7lS3QpHcR33lxbT-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-106" value="PIZZAPRICE = 12" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="1025" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-108" target="jd5DZ7lS3QpHcR33lxbT-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-108" value="PIZZAPRICE = 14" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="171" y="1025" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-109" target="jd5DZ7lS3QpHcR33lxbT-112">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-109" value="PIZZAPRICE = 16" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="1025" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;return&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;PIZZAPRICE * CHOICE[ 1 ] + CHOICE[ 2 ]&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="1150" width="245" height="80" as="geometry" />
+          <mxGeometry x="97.5" y="1160" width="245" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
