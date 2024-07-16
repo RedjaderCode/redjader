@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T21:31:44.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="hapWHEl6YRX-0HSzBRCl" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T21:34:39.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="N0-Ai07cw-kJt6Rc0zky" version="24.6.5" type="github">
   <diagram name="Page-1" id="Bwrql6FO_Pp4iYdtCRvU">
     <mxGraphModel dx="577" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -225,7 +225,10 @@
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-116" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;END CALC_TOTAL(CHOICE)&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="63.5" y="1560" width="279" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jd5DZ7lS3QpHcR33lxbT-123" value="&lt;font size=&quot;3&quot;&gt;DISPLAY &quot; Thank you for your order! &quot;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;Quantity: &quot;, CHOICE[ 1 ], &quot;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-123" target="jd5DZ7lS3QpHcR33lxbT-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-123" value="&lt;font size=&quot;3&quot;&gt;DISPLAY &quot; Thank you for your order! &quot;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;Quantity: &quot;, CHOICE[ 1 ], PIZZA, CHOICE[ 2 ], &quot; TOPPINGS - $&quot;, PIZZAPRICE&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="71.25" y="1330" width="340" height="115" as="geometry" />
         </mxCell>
       </root>
