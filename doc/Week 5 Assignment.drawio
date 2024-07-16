@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T21:28:27.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_AWR7B91bgV9Z1_7-e8r" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T21:30:38.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="FoyZNYG3D0cJw5m51xpI" version="24.6.5" type="github">
   <diagram name="Page-1" id="Bwrql6FO_Pp4iYdtCRvU">
     <mxGraphModel dx="577" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-99" target="jd5DZ7lS3QpHcR33lxbT-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jd5DZ7lS3QpHcR33lxbT-99" value="PIZZAPRICE = 0" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-99" value="PIZZAPRICE = 0&lt;div&gt;PIZZA = &quot; &quot;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="100" y="737.5" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-102" target="jd5DZ7lS3QpHcR33lxbT-106">
@@ -216,14 +216,17 @@
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-109" value="PIZZAPRICE = 16" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="1025" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jd5DZ7lS3QpHcR33lxbT-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-112" target="jd5DZ7lS3QpHcR33lxbT-116">
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd5DZ7lS3QpHcR33lxbT-112" target="jd5DZ7lS3QpHcR33lxbT-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;return&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;PIZZAPRICE * CHOICE[ 1 ] + CHOICE[ 2 ]&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="1160" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-116" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;END CALC_TOTAL(CHOICE)&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="80.5" y="1290" width="279" height="70" as="geometry" />
+          <mxGeometry x="63.5" y="1560" width="279" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jd5DZ7lS3QpHcR33lxbT-123" value="&lt;font size=&quot;3&quot;&gt;DISPLAY &quot; Thank you for your order! &quot;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;Quantity: &quot;, CHOICE[ 1 ], &quot;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="71.25" y="1330" width="340" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
