@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T21:05:15.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Yrg86Zegy7MdJ59h8ecA" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T21:05:32.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="CC2MlSprm1PL8lkngRfq" version="24.6.5" type="github">
   <diagram name="Page-1" id="Bwrql6FO_Pp4iYdtCRvU">
     <mxGraphModel dx="781" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="660" y="450" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jd5DZ7lS3QpHcR33lxbT-64" value="&quot;AMOUNT: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="820" width="220" height="40" as="geometry" />
+          <mxGeometry x="490" y="570" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
