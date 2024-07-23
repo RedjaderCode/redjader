@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T21:02:21.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="EU2OdoBySDu2Cru5zB8W" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T21:06:11.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fIjy-dSgzgJvRjWNMCtU" version="24.6.5" type="github">
   <diagram name="Page-1" id="AcvORmyKL_cDA2iYpnHu">
     <mxGraphModel dx="458" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,14 @@
         <mxCell id="nFXKV-LCEwdOK6MNDmqJ-1" value="START MAIN" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="260" y="90" width="210" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nFXKV-LCEwdOK6MNDmqJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nFXKV-LCEwdOK6MNDmqJ-3" target="nFXKV-LCEwdOK6MNDmqJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nFXKV-LCEwdOK6MNDmqJ-3" value="name = &quot; &quot;&lt;div&gt;verbs = {verb1, verb2}&lt;/div&gt;&lt;div&gt;noun = {noun1, noun2}&lt;/div&gt;&lt;div&gt;adjective = {adj1, adj2}&lt;/div&gt;&lt;div&gt;int = {int1, int2}&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="170" width="215" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nFXKV-LCEwdOK6MNDmqJ-5" value="obtain name&lt;div&gt;obtain verb1, verb2&lt;/div&gt;&lt;div&gt;obtain noun1, noun2&lt;/div&gt;&lt;div&gt;obtain adj1, adj2&lt;/div&gt;&lt;div&gt;obtain int1, int2&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="300" width="235" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
