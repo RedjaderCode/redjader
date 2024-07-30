@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-30T22:37:26.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="gAxsBEu6WUngnLwot2HG" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-30T22:37:53.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="c78WvbhbQU76IwEtMqrS" version="24.7.1" type="github">
   <diagram name="Page-1" id="uszy2_NjLDL6cTKRVGN8">
     <mxGraphModel dx="980" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,15 @@
         </mxCell>
         <mxCell id="_7kI14-JDCzWHCmuqSgS-9" value="Check choice&lt;div&gt;1. Add a movie&lt;/div&gt;&lt;div&gt;2. Display Movie recommendations&lt;/div&gt;&lt;div&gt;3. exit the program&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-266.5" y="-767" width="264.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_7kI14-JDCzWHCmuqSgS-11" value="" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-246.5" y="-674" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_7kI14-JDCzWHCmuqSgS-12" value="" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-674" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_7kI14-JDCzWHCmuqSgS-13" value="" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="-674" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
