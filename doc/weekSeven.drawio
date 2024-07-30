@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-30T22:42:00.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="v0MqYpUZF4ESdC2LyyM9" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-30T22:44:25.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="ypeJx6hVamdI0Kr-zVT0" version="24.7.1" type="github">
   <diagram name="Page-1" id="uszy2_NjLDL6cTKRVGN8">
     <mxGraphModel dx="980" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,6 +22,15 @@
         <mxCell id="_7kI14-JDCzWHCmuqSgS-6" value="input &quot;choose an option: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="-159" y="-846" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_7kI14-JDCzWHCmuqSgS-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_7kI14-JDCzWHCmuqSgS-9" target="_7kI14-JDCzWHCmuqSgS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7kI14-JDCzWHCmuqSgS-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_7kI14-JDCzWHCmuqSgS-9" target="_7kI14-JDCzWHCmuqSgS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7kI14-JDCzWHCmuqSgS-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_7kI14-JDCzWHCmuqSgS-9" target="_7kI14-JDCzWHCmuqSgS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_7kI14-JDCzWHCmuqSgS-9" value="Check choice&lt;div&gt;1. Add a movie&lt;/div&gt;&lt;div&gt;2. Display Movie recommendations&lt;/div&gt;&lt;div&gt;3. exit the program&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-266.5" y="-767" width="264.5" height="66" as="geometry" />
         </mxCell>
@@ -29,10 +38,10 @@
           <mxGeometry x="-246.5" y="-674" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_7kI14-JDCzWHCmuqSgS-12" value="2" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="-674" width="60" height="50" as="geometry" />
+          <mxGeometry x="-164.25" y="-674" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_7kI14-JDCzWHCmuqSgS-13" value="3" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-94" y="-674" width="60" height="50" as="geometry" />
+          <mxGeometry x="-80" y="-674" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
