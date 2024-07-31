@@ -112,7 +112,7 @@
         <mxCell id="sJq7fc1-JX0jqCLRet9U-25" value="available" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="271" y="800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sJq7fc1-JX0jqCLRet9U-33" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-33" value="append to borrowed array" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="251" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
