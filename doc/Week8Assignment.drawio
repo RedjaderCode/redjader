@@ -160,6 +160,11 @@
         <mxCell id="sJq7fc1-JX0jqCLRet9U-45" value="input&lt;div&gt;which book would you like to return&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="381" y="620" width="139" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-49" value="Append to available&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;take away from borrowed&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="780" width="120" height="60" as="geometry" />
         </mxCell>
