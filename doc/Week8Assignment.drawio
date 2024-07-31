@@ -16,8 +16,32 @@
         <mxCell id="sJq7fc1-JX0jqCLRet9U-2" value="array available = { }&lt;div&gt;array borrowed = { }&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="200" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-4" value="input&lt;div&gt;1. Show all available books or borrowed books&lt;/div&gt;&lt;div&gt;2. Borrow a book&lt;/div&gt;&lt;div&gt;3. return a book&lt;/div&gt;&lt;div&gt;4. Exit the program&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-6" value="input == 1" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="102" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-7" value="input == 2" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="102" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-8" value="input == 3" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="102" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-9" value="input == 4" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450" width="102" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
