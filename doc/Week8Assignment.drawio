@@ -4,10 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-1" target="sJq7fc1-JX0jqCLRet9U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-1" value="START" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="278" y="110" width="295" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sJq7fc1-JX0jqCLRet9U-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-2" value="array available&lt;div&gt;array borrowed&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="200" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
