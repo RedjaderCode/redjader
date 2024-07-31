@@ -10,8 +10,14 @@
         <mxCell id="sJq7fc1-JX0jqCLRet9U-1" value="START" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="278" y="110" width="295" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-2" target="sJq7fc1-JX0jqCLRet9U-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-2" value="array available = { }&lt;div&gt;array borrowed = { }&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-4" value="input&lt;div&gt;1. Show all available books or borrowed books&lt;/div&gt;&lt;div&gt;2. Borrow a book&lt;/div&gt;&lt;div&gt;3. return a book&lt;/div&gt;&lt;div&gt;4. Exit the program&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="410" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
