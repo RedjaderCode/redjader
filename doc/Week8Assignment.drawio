@@ -70,7 +70,7 @@
           <mxGeometry x="508" y="505" width="102" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-19" value="display all books" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-21" target="sJq7fc1-JX0jqCLRet9U-23">
           <mxGeometry relative="1" as="geometry" />
