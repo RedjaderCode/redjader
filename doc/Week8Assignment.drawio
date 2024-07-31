@@ -19,14 +19,34 @@
         <mxCell id="sJq7fc1-JX0jqCLRet9U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-16" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJq7fc1-JX0jqCLRet9U-10">
+          <mxGeometry x="0.4894" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-15" value="borrow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJq7fc1-JX0jqCLRet9U-11">
+          <mxGeometry x="0.7286" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-14" value="show" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJq7fc1-JX0jqCLRet9U-12">
+          <mxGeometry x="0.8584" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJq7fc1-JX0jqCLRet9U-4" target="sJq7fc1-JX0jqCLRet9U-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJq7fc1-JX0jqCLRet9U-17" value="exit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJq7fc1-JX0jqCLRet9U-13">
+          <mxGeometry x="0.7529" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-4" value="input&lt;div&gt;1. Show all available books or borrowed books&lt;/div&gt;&lt;div&gt;2. Borrow a book&lt;/div&gt;&lt;div&gt;3. return a book&lt;/div&gt;&lt;div&gt;4. Exit the program&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="410" height="90" as="geometry" />
