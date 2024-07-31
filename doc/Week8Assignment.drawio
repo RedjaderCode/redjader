@@ -32,16 +32,16 @@
           <mxGeometry x="200" y="310" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-6" value="input == 1" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="130" y="450" width="102" height="90" as="geometry" />
+          <mxGeometry x="120" y="505" width="102" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-7" value="input == 2" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="260" y="450" width="102" height="90" as="geometry" />
+          <mxGeometry x="260" y="505" width="102" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-8" value="input == 3" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="380" y="450" width="102" height="90" as="geometry" />
+          <mxGeometry x="390" y="505" width="102" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sJq7fc1-JX0jqCLRet9U-9" value="input == 4" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="500" y="450" width="102" height="90" as="geometry" />
+          <mxGeometry x="508" y="505" width="102" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
